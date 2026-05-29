@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Toi uu hoa FPS cuc han cho Oppo A58 (Helio G85). Đuoc lam boi Gemini x GitHub Developer.",
+    "name": "§bOppo A58 §cExtreme FPS Boost",
+    "uuid": "cf438a21-7b12-4d9a-9e32-1a2b3c4d5e6f",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "description": "Giam tai do hoa, tat thiet lap hoat anh gay lag cho GPU Mali-G52.",
+      "type": "resources",
+      "uuid": "fa549b32-8c23-5e0b-0f43-2b3c4d5e6f7a",
+      "version": [1, 0, 0]
+    }
+  ]
+}

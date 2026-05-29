@@ -1,0 +1,16 @@
+{
+  "namespace": "chat",
+  "chat_screen": {
+    "modifications": [
+      {
+        "array_name": "controls",
+        "operation": "insert_back",
+        "value": {
+          "chat_text_grid/grid_item/chat_text": {
+            "shadow": false
+          }
+        }
+      }
+    ]
+  }
+}
